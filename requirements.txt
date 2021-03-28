@@ -1,0 +1,7 @@
+---python 3.8 version ---
+from collections import defaultdict
+from collections import defaultdict, deque
+from copy import deepcopy
+from queue import PriorityQueue
+
+rest all instructions of input is user based and is defined in code itselgit pf
